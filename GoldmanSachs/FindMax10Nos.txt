@@ -1,0 +1,1 @@
+Use a min heap of size 10, Insert first 10 elements and then traverse the remaning list : if the top of heap is less than the element , replace the top of heap with that element.

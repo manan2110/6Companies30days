@@ -10,16 +10,16 @@ eg if the input string is “wwwwaaadexxxxxx”, then the function should return
             to          concatenate multiple str2 to get str1. For example, ab divides abab. 
            if str2 does not divide str1, return -1. Otherwise, return the smallest string 
            str3 such that str3 divides both str1 and str2.
-- [ ] Find the kid which gets tha damaged toy
+- [x] Find the kid which gets tha damaged toy
 - [ ] Total Decoding Messages 
 - [ ] Given a pattern containing only I's and D's. I for increasing and D 
          for decreasing.Devise an algorithm to print the minimum number following
         that pattern.
-- [ ] Find max 10 numbers in a list having 10M entries.
-- [ ] Given an unsorted array Arr of size N of positive integers. One number 
+- [x] Find max 10 numbers in a list having 10M entries.
+- [x] Given an unsorted array Arr of size N of positive integers. One number 
          'A' from     set {1, 2, …N} is missing and one number 'B' 
         occurs twice in array. Find these two numbers.
-- [ ] Find total number of Squares in a N*N chessboard
+- [x] Find total number of Squares in a N*N chessboard
 - [x] Decode the string
 - [ ] Minimum Size Subarray Sum
 - [ ] Array Pair Sum Divisibility Problem
